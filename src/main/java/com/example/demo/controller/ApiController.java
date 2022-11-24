@@ -28,6 +28,7 @@ import com.example.demo.util.JwtUtil;
 
 
 //////Car loan service==for login register and customer basic details///////Using port 8090////
+///jenkin is running with this service on port 8080.
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
